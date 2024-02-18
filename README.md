@@ -60,6 +60,7 @@
 - This is it, now the setup is hopefully completed. Raise your issue if any and i will try to solve it for you.
 
 # Fix issues
+updating soon, stay tuned.
 
 # Hot Key 
 - As told before, macifiedwindows.exe is to assign hotkey to load the skin easily without using the mouse. 

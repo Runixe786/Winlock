@@ -13,6 +13,13 @@
 <p align="center">
   <a href="https://hits.sh/github.com/Runixe786/Winlock">
       <img alt="Hits" src="https://hits.sh/github.com/Runixe786/Winlock.svg?style=for-the-badge&label=Views&extraCount=24&color=ff3f6f"/></a>
+ <a href="https://github.com/Runixe786/Winlock/releases">
+      <img src="https://img.shields.io/github/downloads/Runixe786/Winlock/total?color=orange&style=for-the-badge"/></a>
+  <img href="https://github.com/Runixe786/Winlock/stars">
+      <img src="https://img.shields.io/github/stars/Runixe786/Winlock?color=ffff00&style=for-the-badge"/></a>
+  <a href="https://github.com/Runixe786/Winlock/releases/latest">
+      <img src="https://img.shields.io/github/v/release/Runixe786/Winlock?color=purple&include_prereleases&logo=github&style=for-the-badge"/>
+  </a>
 
 <br> 
 <br> 
